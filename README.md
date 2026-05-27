@@ -110,11 +110,11 @@ EMAIL_PASS=your_gmail_app_password
 
 ## 👨‍💻 Developpe par
 
-**[Votre Nom]** — Developpeur Full Stack  
+Lusengeruth — Developpeur Full Stack  
 📍 Goma, Congo DRC  
-📧 contact@email.com  
-💼 [LinkedIn](https://linkedin.com/in/votre-profil)
-
+📧 votre.email@gmail.com  
+💼 [LinkedIn](https://linkedin.com/in/votre-profil-linkedin)  
+🌐 [Hatua Collection](https://hatua-collection.vercel.app)
 ---
 
 ## 📄 Licence
