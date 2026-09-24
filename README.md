@@ -112,11 +112,8 @@ EMAIL_PASS=your_gmail_app_password
 
 Lusengeruth — Developpeur Full Stack  
 📍 Goma, Congo DRC  
-📧 votre.email@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/votre-profil-linkedin)  
+📧 lusengeruth26@gmail.com  
+💼 www.linkedin.com/in/ruth-lusenge 
 🌐 [Hatua Collection](https://hatua-collection.vercel.app)
 ---
 
-## 📄 Licence
-
-MIT License — Libre d'utilisation et de modification.
